@@ -3,9 +3,9 @@
 <div align="center">
 
 ![](wave-hand.gif)
-<a href="http://portfolio.yuyunchu.ca" target="_blank"><img src="https://img.shields.io/badge/Portfolio-57060E.svg?&style=flat&logo=adobe&logoColor=red" alt="Adobe Spark"></a> &nbsp; 
 <a href="https://www.instagram.com/zh_en_fr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4204D.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram"></a> &nbsp;
-<a href="http://github.yuyunchu.ca"><img src="https://img.shields.io/github/followers/yuyunChu.svg?label=GitHub&style=social" alt="GitHub"></a>  
+<a href="http://portfolio.yuyunchu.ca" target="_blank"><img src="https://img.shields.io/badge/Portfolio-57060E.svg?&style=flat&logo=adobe&logoColor=red" alt="Adobe Spark"></a> &nbsp; 
+<a href="http://github.yuyunchu.ca"><img src="https://img.shields.io/github/followers/yuyunChu.svg?label=GitHub&style=social" alt="GitHub"></a> 💬
 
 ```
  __    __          __ __                 __     __                                  __ 
@@ -17,7 +17,9 @@
 | ▓▓  | ▓▓ ▓▓▓▓▓▓▓▓ ▓▓ ▓▓ ▓▓__/ ▓▓      | ▓▓|  \ ▓▓  | ▓▓ ▓▓▓▓▓▓▓▓ ▓▓     | ▓▓▓▓▓▓▓▓__ 
 | ▓▓  | ▓▓\▓▓     \ ▓▓ ▓▓\▓▓    ▓▓       \▓▓  ▓▓ ▓▓  | ▓▓\▓▓     \ ▓▓      \▓▓     \  \
  \▓▓   \▓▓ \▓▓▓▓▓▓▓\▓▓\▓▓ \▓▓▓▓▓▓         \▓▓▓▓ \▓▓   \▓▓ \▓▓▓▓▓▓▓\▓▓       \▓▓▓▓▓▓▓\▓▓
-                                                                                     
+
+🂡🍀⸜(｡˃ ᵕ ˂ )⸝🍀𝓁𝓊𝒸𝓀𝓎🍀⸜(｡˃ ᵕ ˂ )⸝🍀🂡 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```                                                                                        
 </div>
 <table><tr><td valign="top" width="33%">
