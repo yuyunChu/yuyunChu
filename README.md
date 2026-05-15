@@ -63,10 +63,8 @@ Please feel free to click on [my online portfolio](http://portfolio.yuyunchu.ca 
 </td></tr></table>
 <div align="center">
 <br />
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyunChu&&theme=vision-friendly-dark&&layout=compact&hide=html" alt="yuyunChu" />
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yuyunChu.yuyunChu)
 
 `CC BY-NC-ND`  Copyright © since 2020, yuyunChu.
 All rights reserved. 
